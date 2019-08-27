@@ -1,1 +1,1 @@
-# basic_computing
+# Info on Basic computer information
