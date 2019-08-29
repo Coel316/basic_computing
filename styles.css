@@ -1,0 +1,33 @@
+body {
+    background-color: blue;
+}
+header {
+background-color: chartreuse;    
+}
+main {
+    margin-top: 25px;
+    background-color: darkorange;
+}
+/* main>section>article{ */
+    /* float: left; */
+/* } */
+footer {
+    background-color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#left-nav {
+    float: left;
+}
+#right-nav {
+    float: right;
+}
+
+article {
+    background-color: brown;
+}
