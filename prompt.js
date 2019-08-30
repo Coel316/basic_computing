@@ -8,12 +8,12 @@ function askMachineType() {
     return name;
    */
 
-   var order = prompt('Do you want to order an Apple or PC comuter?');
+   var applePc = prompt('Do you want to order an Apple or PC comuter?');
    var item, quantity;
    var items;
 
-   while (order !== 'Apple' && order !== 'PC') {
-       order = prompt('Please enter number of computers needed...');
+   while (applePc !== 'Apple' && applePc !== 'PC') {
+       order = prompt('Apple or PC ?');
 
    }
-    
+
