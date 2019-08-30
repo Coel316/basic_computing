@@ -1,16 +1,24 @@
 body {
     background-color: blue;
 }
+
 header {
 background-color: chartreuse;    
 }
+
 main {
     margin-top: 25px;
     background-color: darkorange;
+
 }
-/* main>section>article{ */
-    /* float: left; */
-/* } */
+
+main>section>article{
+    display: inline-block;
+    margin: 10px;
+    margin-left: 10%;
+
+}
+
 footer {
     background-color: white;
 }
@@ -24,6 +32,7 @@ img {
 #left-nav {
     float: left;
 }
+
 #right-nav {
     float: right;
 }
